@@ -1,0 +1,35 @@
+body
+{
+    padding: 15px;
+}
+.row-header
+{
+ padding-top: 100px;
+ height: 99vh;
+ background-image: url("Breast-Cancer-Awareness-Banner.png");
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ 
+ background-size: cover;
+ background-color: aqua;
+ color: white;
+}
+.heading
+{
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 50px;
+}
+.row-content
+{
+    padding: 50px;
+}
+
+@media only screen and (min-width:600px)
+{
+    img
+    {
+        padding-left: 40%;
+    }
+}
