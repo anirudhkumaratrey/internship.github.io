@@ -6,7 +6,7 @@ body
 {
  padding-top: 100px;
  height: 99vh;
- background-image: url("Breast-Cancer-Awareness-Banner.png");
+ background-image: url("../images/Breast-Cancer-Awareness-Banner.png");
  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
